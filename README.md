@@ -51,11 +51,14 @@ Neste perfil você encontrará alguns projetos pessoais que desenvolvo para estu
 <br>
 <br>
 
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c4rola&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=c4rola&theme=buefy"/></td>
-    </tr>   
-</table>
-</center>  
+<p align="center">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=c4rola&layout=compact&theme=buefy"
+  />
+  
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=c4rola&show_icons=true&theme=buefy"
+  />
+</p>
