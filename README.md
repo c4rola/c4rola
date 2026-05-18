@@ -51,14 +51,4 @@ Neste perfil você encontrará alguns projetos pessoais que desenvolvo para estu
 <br>
 <br>
 
-<p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=c4rola&layout=compact&theme=buefy"
-  />
-  
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=c4rola&show_icons=true&theme=buefy"
-  />
-</p>
+![Top Languages](https://vani-stats.vercel.app/api?username=c4rola&theme=dark&max_langs=5)
