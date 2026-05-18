@@ -50,5 +50,6 @@ Neste perfil você encontrará alguns projetos pessoais que desenvolvo para estu
 <br>
 <br>
 <br>
-
-![Top Languages](https://vani-stats.vercel.app/api?username=c4rola&theme=dark&max_langs=5)
+<p align="center">
+    ![Top Languages](https://vani-stats.vercel.app/api?username=c4rola&theme=dark&max_langs=5)
+</p>
