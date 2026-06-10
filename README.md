@@ -54,3 +54,12 @@ Neste perfil você encontrará alguns projetos pessoais que desenvolvo para estu
 <p align="center">
   <img alt="Top Languages" src="https://vani-stats.vercel.app/api?username=c4rola&theme=dark&max_langs=5"/>
 </p>
+
+<br>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/c4rola/c4rola/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/c4rola/c4rola/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/c4rola/c4rola/output/pacman-contribution-graph.svg">
+</picture>
